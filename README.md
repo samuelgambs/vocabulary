@@ -1,1 +1,1 @@
-# vocal
+# vocabulary
